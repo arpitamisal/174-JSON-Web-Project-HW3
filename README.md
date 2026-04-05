@@ -95,16 +95,16 @@ Example valid data structure: :contentReference[oaicite:2]{index=2}
 
 The app handles multiple edge cases:
 
-❌ Invalid JSON format
-❌ Missing root (Mainline)
-❌ Missing headers
-❌ Incorrect row type
-❌ Empty dataset
-❌ Missing fields (logo, homepage, etc.)
+- ❌ Invalid JSON format
+- ❌ Missing root (Mainline)
+- ❌ Missing headers
+- ❌ Incorrect row type
+- ❌ Empty dataset
+- ❌ Missing fields (logo, homepage, etc.)
 
 Test files included:
 
-truckinglistbadrow.json
-truckinglistempty.json
-truckinglistmissingroot.json
-truckinglistpartial.json
+- truckinglistbadrow.json
+- truckinglistempty.json
+- truckinglistmissingroot.json
+- truckinglistpartial.json

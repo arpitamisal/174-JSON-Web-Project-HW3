@@ -76,7 +76,7 @@ Open:
 - If valid → renders a table  
 - If invalid → displays an error message  
 
-Example valid data structure: :contentReference[oaicite:2]{index=2}
+Example valid data structure: 
 
 ```json
 {
